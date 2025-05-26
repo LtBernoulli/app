@@ -1,7 +1,7 @@
 import streamlit as st
 import nltk
 import spacy
-import plotly.express as px
+import plotly 
 nltk.download('stopwords')
 spacy.load('en_core_web_sm')
 
